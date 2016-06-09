@@ -1,0 +1,80 @@
+{
+    "01": {
+        "name": "Kom i gång med Python",
+        "haveExtra": false,
+        "helpToTeacher": [
+            "Tänk på att kolla me-sidan. Inga error 500!",
+            "Titta så de har en ascii-bild",
+            "Titta så de har skrivit något om sig själva"
+        ],
+        "availableInfo": [
+            "Mer info om cgi: http://www.tutorialspoint.com/python/python_cgi_programming.htm"
+        ]
+    },
+    "02": {
+        "name": "Villkor, funktioner och loopar",
+        "haveExtra": false,
+        "helpToTeacher": [
+            
+        ],
+        "availableInfo": [
+            
+        ]
+    },
+    "03": {
+        "name": "Strängar och filer",
+        "haveExtra": false,
+        "helpToTeacher": [
+            
+        ],
+        "availableInfo": [
+            
+        ]
+    },
+    "04": {
+        "name": "Listor",
+        "haveExtra": false,
+        "helpToTeacher": [
+            
+        ],
+        "availableInfo": [
+            
+        ]
+    },
+    "05": {
+        "name": "Dictionaries och Tupler",
+        "haveExtra": false,
+        "helpToTeacher": [
+            
+        ],
+        "availableInfo": [
+            
+        ]
+    },
+    "06": {
+        "name": "Externa moduler och webben",
+        "haveExtra": false,
+        "helpToTeacher": [
+            
+        ],
+        "availableInfo": [
+            
+        ]
+    },
+    "10": {
+        "name": "Projekt och examination",
+        "helpToTeacher": [
+            "Kraven finns på: <a href='http://dbwebb.se/python/kmom10'>dbwebb</a>",
+            "Krav 1 innebär att options (syns i inspect) ska fungera utan att spelet startar.",
+            "Krav 2 är kommandona i spelet. [i, info], [h, hjälp], [fr, fram], [ba, bak], [se], [l, ledtråd] ska fungera.",
+            "Krav 3 är interaktionen med objekt. [o, objekt], [t [objekt], titta [objekt]], [ö [objekt], öppna [objekt]], [s [objekt], sparka [objekt]], [f [objekt], flytta [objekt]] ska fungera.",
+            "krav 4 (optionellt) Ryggsäck - [inv, inventarier], [ta [objekt]], [sl [objekt], släpp [objekt]], [a [objekt], använd [objekt]] ska fungera.",
+            "Krav 5 (optionellt) Scrapa/Spara - Scrapa i minst 4 rum, Spara och ladda (till/från fil) + fil som placerar en i sista rummet med all utrustning.",
+            "Krav 6 (optionellt) Spel i spelet - Måste klaras för att komma vidare. TicTacToe, Curses eller Ceasar-kryptospel",
+            "Om namn på kommandon är ändrade måste de skriva om det i sin text. Alla implementerade krav ska även vara dokumenterade."
+        ],
+        "availableInfo": [
+            
+        ]
+    }
+}

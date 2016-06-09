@@ -1,0 +1,30 @@
+{
+    "links": [
+        {
+            "name": "Chat",
+            "link": "http://dbwebb.se/irc"
+        },
+        {
+            "name": "Forum",
+            "link": "http://dbwebb.se/forum"
+        },
+        {
+            "name": "Skriva bra redovisningstext",
+            "link": "http://dbwebb.se/kunskap/att-skriva-en-bra-redovisningstext"
+        },
+        {
+            "name": "Tiden räcker inte till",
+            "link": "http://dbwebb.se/forum/viewtopic.php?t=1033"
+        },
+        {
+            "name": "FAQ",
+            "link": "http://dbwebb.se/forum/viewtopic.php?f=30&t=1113"
+        }
+    ],
+    "_comment": "intro kan slumpas fram?",
+    "intro": [
+        "Jag har tittat på dina uppgifter och här kommer lite feedback.",
+        "Följande uppgifter är kontrollerade:",
+        "Jag har kikat på följande uppgifter:"
+    ]
+}
