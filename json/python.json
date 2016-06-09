@@ -1,6 +1,7 @@
 {
     "01": {
         "name": "Kom i gång med Python",
+        "preText": "Pre text!!",
         "haveExtra": false,
         "helpToTeacher": [
             "Tänk på att kolla me-sidan. Inga error 500!",
@@ -13,6 +14,7 @@
     },
     "02": {
         "name": "Villkor, funktioner och loopar",
+        "preText": "Pre text!!",
         "haveExtra": false,
         "helpToTeacher": [
             
@@ -23,6 +25,7 @@
     },
     "03": {
         "name": "Strängar och filer",
+        "preText": "Pre text!!",
         "haveExtra": false,
         "helpToTeacher": [
             
@@ -33,6 +36,7 @@
     },
     "04": {
         "name": "Listor",
+        "preText": "Pre text!!",
         "haveExtra": false,
         "helpToTeacher": [
             
@@ -43,6 +47,7 @@
     },
     "05": {
         "name": "Dictionaries och Tupler",
+        "preText": "Pre text!!",
         "haveExtra": false,
         "helpToTeacher": [
             
@@ -53,6 +58,7 @@
     },
     "06": {
         "name": "Externa moduler och webben",
+        "preText": "Pre text!!",
         "haveExtra": false,
         "helpToTeacher": [
             
@@ -63,6 +69,7 @@
     },
     "10": {
         "name": "Projekt och examination",
+        "preText": "Pre text!!",
         "helpToTeacher": [
             "Kraven finns på: <a href='http://dbwebb.se/python/kmom10'>dbwebb</a>",
             "Krav 1 innebär att options (syns i inspect) ska fungera utan att spelet startar.",
