@@ -1,25 +1,10 @@
 {
     "links": [
-        {
-            "name": "Chat",
-            "link": "http://dbwebb.se/irc"
-        },
-        {
-            "name": "Forum",
-            "link": "http://dbwebb.se/forum"
-        },
-        {
-            "name": "Skriva bra redovisningstext",
-            "link": "http://dbwebb.se/kunskap/att-skriva-en-bra-redovisningstext"
-        },
-        {
-            "name": "Tiden räcker inte till",
-            "link": "http://dbwebb.se/forum/viewtopic.php?t=1033"
-        },
-        {
-            "name": "FAQ",
-            "link": "http://dbwebb.se/forum/viewtopic.php?f=30&t=1113"
-        }
+        "<a href='http://dbwebb.se/irc'>Chat</a>",
+        "<a href='http://dbwebb.se/forum'>Forum</a>",
+        "<a href='http://dbwebb.se/kunskap/att-skriva-en-bra-redovisningstext'>Skriva bra redovisningstext</a>",
+        "<a href='http://dbwebb.se/forum/viewtopic.php?t=1033'>Tiden räcker inte till</a>",
+        "<a href='http://dbwebb.se/forum/viewtopic.php?f=30&t=1113'>FAQ</a>"
     ],
     "_comment": "intro kan slumpas fram?",
     "intro": [
