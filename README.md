@@ -22,5 +22,5 @@ Links go in the bottom (like allinreps signature)
 
 Course specific file. 
 
-holds all kmoms and tips to "rättaren". Can also hold "availableInfo" for extra tips to student.
+holds all kmoms and tips to "rättaren" as well as the pre-text to kmom. Can also hold "availableInfo" for extra tips to student.
 
